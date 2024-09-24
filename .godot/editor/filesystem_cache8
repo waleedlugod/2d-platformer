@@ -1,3 +1,114 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727070806
-icon.svg::CompressedTexture2D::1515024303739742768::1727070754::1727070807::1::::<><>::
+::res://::1727155087
+icon.svg::CompressedTexture2D::1515024303739742768::1727154435::1727154497::1::::<><>::
+::res://Deliverable 2/::1727154435
+::res://Rocky Roads/::1675081214
+::res://Rocky Roads/Backgrounds/::1675388532
+clouds.png::CompressedTexture2D::8981081965435494551::1675353386::1727155090::1::::<><>::
+desert_a.png::CompressedTexture2D::2220086070808966785::1675352626::1727155090::1::::<><>::
+desert_b.png::CompressedTexture2D::1598207159537504616::1674934970::1727155090::1::::<><>::
+mountains_a.png::CompressedTexture2D::3473882323987671331::1639549042::1727155090::1::::<><>::
+mountains_b.png::CompressedTexture2D::3069476383952018845::1639549042::1727155090::1::::<><>::
+trees.png::CompressedTexture2D::4149457337082582793::1639549042::1727155090::1::::<><>::
+::res://Rocky Roads/Deco/::1675348242
+bush.png::CompressedTexture2D::3845398162494915901::1675086420::1727155090::1::::<><>::
+clouds.png::CompressedTexture2D::799524512176076356::1627812060::1727155090::1::::<><>::
+lava.png::CompressedTexture2D::767190466435017852::1625340290::1727155090::1::::<><>::
+log_wall.png::CompressedTexture2D::8685390457035053027::1675086394::1727155090::1::::<><>::
+rock.png::CompressedTexture2D::1264071387391435040::1675086630::1727155090::1::::<><>::
+sun.png::CompressedTexture2D::3292041006794111192::1636562110::1727155090::1::::<><>::
+tree.png::CompressedTexture2D::365141984617243726::1675351488::1727155090::1::::<><>::
+tree_b.png::CompressedTexture2D::7824873383257169673::1675351400::1727155090::1::::<><>::
+tree_c.png::CompressedTexture2D::2179444658585592615::1675353038::1727155090::1::::<><>::
+tree_trunk.png::CompressedTexture2D::8172650361898205356::1675081150::1727155090::1::::<><>::
+water_a_8frames.png::CompressedTexture2D::5923082397364234267::1627827006::1727155090::1::::<><>::
+water_b_5 frames.png::CompressedTexture2D::8823393277566883525::1675086828::1727155090::1::::<><>::
+::res://Rocky Roads/Enemies/::1675388558
+bat.png::CompressedTexture2D::7602849486551797306::1675088146::1727155090::1::::<><>::
+bear_brown.png::CompressedTexture2D::8533950054795722167::1675087824::1727155090::1::::<><>::
+bear_polar.png::CompressedTexture2D::8178986874079758369::1675087882::1727155090::1::::<><>::
+bird.png::CompressedTexture2D::6125438131478927648::1674826500::1727155090::1::::<><>::
+bomb.png::CompressedTexture2D::1519060586037424585::1675088226::1727155090::1::::<><>::
+bullet.png::CompressedTexture2D::8554072448632155905::1639549042::1727155090::1::::<><>::
+cactus.png::CompressedTexture2D::1330137283459238531::1675089160::1727155090::1::::<><>::
+cactus_spike.png::CompressedTexture2D::2194571531009786600::1675089220::1727155091::1::::<><>::
+cannon.png::CompressedTexture2D::3725351199461518291::1675088456::1727155091::1::::<><>::
+chicken.png::CompressedTexture2D::4168269264667895843::1675080336::1727155091::1::::<><>::
+crab.png::CompressedTexture2D::4679000721043336458::1675346914::1727155091::1::::<><>::
+fire.png::CompressedTexture2D::4541934018710238862::1639549042::1727155091::1::::<><>::
+fireball.png::CompressedTexture2D::1276348543863193048::1675344210::1727155091::1::::<><>::
+fire_big.png::CompressedTexture2D::809711268470402628::1675342392::1727155091::1::::<><>::
+fish.png::CompressedTexture2D::7243271456236377454::1675345958::1727155091::1::::<><>::
+frog.png::CompressedTexture2D::4070755369655773226::1675089808::1727155091::1::::<><>::
+ice_spikes.png::CompressedTexture2D::2789445522629655273::1675387864::1727155091::1::::<><>::
+icicle.png::CompressedTexture2D::3521308159261347789::1675347806::1727155091::1::::<><>::
+lightning.png::CompressedTexture2D::8946554496658456989::1673865442::1727155091::1::::<><>::
+penguin.png::CompressedTexture2D::8509929061795511705::1675343184::1727155090::1::::<><>::
+propeller.png::CompressedTexture2D::4075884849847167593::1675088520::1727155090::1::::<><>::
+quicksand_8frames.png::CompressedTexture2D::1554445723490760699::1675090512::1727155090::1::::<><>::
+saw.png::CompressedTexture2D::3476013560670151093::1675091518::1727155090::1::::<><>::
+shark.png::CompressedTexture2D::1053502365694295006::1675089888::1727155090::1::::<><>::
+slime_blue.png::CompressedTexture2D::3294746433611046396::1675389438::1727155090::1::::<><>::
+slime_red.png::CompressedTexture2D::4751434989783723851::1674955878::1727155090::1::::<><>::
+snake.png::CompressedTexture2D::62873584695090229::1675089414::1727155090::1::::<><>::
+spikes.png::CompressedTexture2D::3126026166659185752::1639549042::1727155090::1::::<><>::
+tornado.png::CompressedTexture2D::3315109845106309541::1675344724::1727155090::1::::<><>::
+tornado_sand.png::CompressedTexture2D::8059488380903551888::1675344852::1727155090::1::::<><>::
+wood_stakes.png::CompressedTexture2D::939955613336803284::1675089964::1727155090::1::::<><>::
+::res://Rocky Roads/FX/::1675389568
+boing.png::CompressedTexture2D::6681766547808262264::1673863652::1727155090::1::::<><>::
+bomb_explosion.png::CompressedTexture2D::3913521507781383567::1639549042::1727155090::1::::<><>::
+bubble.png::CompressedTexture2D::3231733782624554783::1674938628::1727155090::1::::<><>::
+bullet_windtrail.png::CompressedTexture2D::3327472460466615916::1639549042::1727155090::1::::<><>::
+cannon_fire_smoke.png::CompressedTexture2D::643764612909425194::1639549042::1727155090::1::::<><>::
+coin_collect.png::CompressedTexture2D::7200776615704414763::1639912872::1727155090::1::::<><>::
+dust.png::CompressedTexture2D::6422236406393400028::1675344712::1727155090::1::::<><>::
+exclamation.png::CompressedTexture2D::8918272671209526832::1674934904::1727155090::1::::<><>::
+hit.png::CompressedTexture2D::6876333474114307755::1675085478::1727155090::1::::<><>::
+rain_particles.png::CompressedTexture2D::6317387648292352192::1674814786::1727155090::1::::<><>::
+shine.png::CompressedTexture2D::2251736665312672012::1639549042::1727155090::1::::<><>::
+shine_white.png::CompressedTexture2D::2841711790263770800::1675389604::1727155090::1::::<><>::
+snow_particle.png::CompressedTexture2D::2684427305867346819::1674814826::1727155090::1::::<><>::
+splash.png::CompressedTexture2D::688153096668810525::1675085656::1727155090::1::::<><>::
+thought_bubble.png::CompressedTexture2D::4003833162783164561::1674936846::1727155090::1::::<><>::
+walk_dust.png::CompressedTexture2D::2792278050883339516::1675080200::1727155090::1::::<><>::
+wind.png::CompressedTexture2D::8647693030921837326::1674028680::1727155090::1::::<><>::
+::res://Rocky Roads/Objects/::1675388640
+apple.png::CompressedTexture2D::3577027766896067406::1674810208::1727155090::1::::<><>::
+banana.png::CompressedTexture2D::4730274392905872671::1673785694::1727155090::1::::<><>::
+bounce pad.png::CompressedTexture2D::647491075332136005::1671271368::1727155090::1::::<><>::
+brick_box.png::CompressedTexture2D::6015899391132487318::1675083362::1727155090::1::::<><>::
+button.png::CompressedTexture2D::2607586034789904857::1671267210::1727155090::1::::<><>::
+cloud_platforms.png::CompressedTexture2D::9118434459204982722::1675389436::1727155090::1::::<><>::
+coin_gold.png::CompressedTexture2D::2901515164382361920::1675388878::1727155090::1::::<><>::
+coin_silver.png::CompressedTexture2D::3384297289019876699::1671266762::1727155090::1::::<><>::
+coin_small_gold.png::CompressedTexture2D::3803744678244388600::1675084028::1727155090::1::::<><>::
+coin_small_silver.png::CompressedTexture2D::1179561092390777582::1675084082::1727155090::1::::<><>::
+crate.png::CompressedTexture2D::3570916630413455026::1675389442::1727155090::1::::<><>::
+flag.png::CompressedTexture2D::8525800201115884836::1671266910::1727155090::1::::<><>::
+gem.png::CompressedTexture2D::4657687316492457638::1675389446::1727155090::1::::<><>::
+heart.png::CompressedTexture2D::8580298352408712285::1639549042::1727155090::1::::<><>::
+key.png::CompressedTexture2D::1738152285491212782::1675389538::1727155090::1::::<><>::
+ladder.png::CompressedTexture2D::8507734895841077427::1671271080::1727155090::1::::<><>::
+lock.png::CompressedTexture2D::5569765883442312708::1671269732::1727155090::1::::<><>::
+sign.png::CompressedTexture2D::4673035064243800538::1671273180::1727155090::1::::<><>::
+sign_arrow.png::CompressedTexture2D::9164200192796973640::1674809540::1727155090::1::::<><>::
+treasure_chest.png::CompressedTexture2D::3894059013618772091::1675388870::1727155090::1::::<><>::
+::res://Rocky Roads/Tilesets/::1675388636
+tileset_desert.png::CompressedTexture2D::161000633218132465::1675348110::1727155090::1::::<><>::
+tileset_dirt.png::CompressedTexture2D::394235967541976148::1675354022::1727155090::1::::<><>::
+tileset_forest.png::CompressedTexture2D::4167767160231084040::1639549042::1727155090::1::::<><>::
+tileset_lava.png::CompressedTexture2D::3162481911078598966::1639549042::1727155090::1::::<><>::
+tileset_snow.png::CompressedTexture2D::7613113666393458090::1675389434::1727155090::1::::<><>::
+tileset_water.png::CompressedTexture2D::3167581347585798339::1675347884::1727155090::1::::<><>::
+::res://Rocky Roads/UI/::1675086302
+arrow.png::CompressedTexture2D::3785641405089526203::1675086316::1727155090::1::::<><>::
+buttons.png::CompressedTexture2D::4760543255636097977::1675086276::1727155090::1::::<><>::
+coin.png::CompressedTexture2D::2733004812182949909::1675086244::1727155090::1::::<><>::
+gem.png::CompressedTexture2D::3566639387172576070::1675086226::1727155090::1::::<><>::
+go.png::CompressedTexture2D::2752548441653980201::1675086296::1727155090::1::::<><>::
+healthbar.png::CompressedTexture2D::4691911587503658658::1675086164::1727155090::1::::<><>::
+hearts.png::CompressedTexture2D::3510531370509175121::1675086204::1727155090::1::::<><>::
+text.png::CompressedTexture2D::8211724766957318004::1675086134::1727155090::1::::<><>::
+text_fx.png::CompressedTexture2D::4320283863214747353::1675086134::1727155090::1::::<><>::
+ui.png::CompressedTexture2D::358625726496494664::1675085966::1727155090::1::::<><>::

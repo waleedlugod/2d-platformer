@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=3 uid="uid://bvbgdxgofx7bw"]
+
+[ext_resource type="Script" path="res://Scripts/player.gd" id="1_3ciem"]
+[ext_resource type="Texture2D" uid="uid://duh76rf4jdspv" path="res://Assets/oak_woods_v1.0/character/char_blue.png" id="2_4u7po"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_6snkt"]
+size = Vector2(63.25, 74)
+
+[node name="player" type="CharacterBody2D"]
+script = ExtResource("1_3ciem")
+jump_force = 700
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(19, -41)
+scale = Vector2(2.92735, 2.33454)
+texture = ExtResource("2_4u7po")
+hframes = 7
+vframes = 5
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(9.625, -39)
+shape = SubResource("RectangleShape2D_6snkt")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(0, -150)
+zoom = Vector2(2.1, 2.1)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]

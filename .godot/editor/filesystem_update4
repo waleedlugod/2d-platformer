@@ -1,5 +1,2 @@
-res://world.tscn
-res://player.tscn
 res://scenes/world.tscn
-res://Scripts/player.gd
 res://scenes/player.tscn

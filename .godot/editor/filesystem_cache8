@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727194664
+::res://::1727226120
 icon.svg::CompressedTexture2D::1515024303739742768::1727154435::1727154497::1::::<><>::
 ::res://Assets/::1727183301
 ::res://Assets/Kings and Pigs/::1727180417
@@ -131,7 +131,7 @@ shop.png::CompressedTexture2D::5495566964302050617::1727180391::1727180391::1:::
 shop_anim.png::CompressedTexture2D::6359264063963641701::1727180391::1727180391::1::::<><>::
 sign.png::CompressedTexture2D::412729208975322914::1727180391::1727180391::1::::<><>::
 ::res://Assets/Rocky Roads/::1727194581
-::res://Assets/Rocky Roads/Backgrounds/::1727194664
+::res://Assets/Rocky Roads/Backgrounds/::1727194665
 background color.png::CompressedTexture2D::2904493192480790447::1727194566::1727194665::1::::<><>::
 clouds.png::CompressedTexture2D::8981081965435494551::1675353386::1727180348::1::::<><>::
 desert_a.png::CompressedTexture2D::2220086070808966785::1675352626::1727180348::1::::<><>::
@@ -244,8 +244,8 @@ text.png::CompressedTexture2D::8211724766957318004::1675086134::1727180348::1:::
 text_fx.png::CompressedTexture2D::4320283863214747353::1675086134::1727180348::1::::<><>::
 ui.png::CompressedTexture2D::358625726496494664::1675085966::1727180348::1::::<><>::
 ::res://Deliverable 2/::1727154435
-::res://scenes/::1727194141
-player.tscn::PackedScene::3862821655133752832::1727194141::0::1::::<><>::res://Scripts/player.gd<>uid://duh76rf4jdspv::::res://Assets/oak_woods_v1.0/character/char_blue.png
-world.tscn::PackedScene::2228028633689098547::1727194141::0::1::::<><>::uid://bvbgdxgofx7bw::::res://scenes/player.tscn<>uid://c5psmpniy5k6n::::res://Assets/Rocky Roads/Backgrounds/real bg.png<>uid://b0m5rs0e2vpm3::::res://Assets/Rocky Roads/Tilesets/tileset_forest.png<>uid://fu8akfme6li7::::res://Assets/Rocky Roads/Tilesets/tileset_dirt.png<>uid://blb6u58gfwmw1::::res://Assets/Rocky Roads/Tilesets/tileset_lava.png<>uid://dgp34tqpjhdss::::res://Assets/Rocky Roads/Tilesets/tileset_snow.png<>uid://blenup6hmtrpj::::res://Assets/Rocky Roads/Tilesets/tileset_water.png<>uid://d26bjvry636qw::::res://Assets/Rocky Roads/Objects/cloud_platforms.png<>uid://lnkb1aatwmye::::res://Assets/Rocky Roads/Deco/clouds.png<>uid://dxyd8648l0fkf::::res://Assets/Rocky Roads/Deco/water_b_5 frames.png<>uid://cqngki1p3k2fv::::res://Assets/Rocky Roads/Deco/water_a_8frames.png
+::res://scenes/::1727194854
+player.tscn::PackedScene::3862821655133752832::1727194854::0::1::::<><>::res://Scripts/player.gd<>uid://duh76rf4jdspv::::res://Assets/oak_woods_v1.0/character/char_blue.png
+world.tscn::PackedScene::2228028633689098547::1727194854::0::1::::<><>::uid://bvbgdxgofx7bw::::res://scenes/player.tscn<>uid://bhm7tw1qk2n88::::res://Assets/Rocky Roads/Backgrounds/background color.png<>uid://bpq1lmqyt86k2::::res://Assets/Rocky Roads/Backgrounds/mountains_a.png<>uid://b0m5rs0e2vpm3::::res://Assets/Rocky Roads/Tilesets/tileset_forest.png<>uid://fu8akfme6li7::::res://Assets/Rocky Roads/Tilesets/tileset_dirt.png<>uid://blb6u58gfwmw1::::res://Assets/Rocky Roads/Tilesets/tileset_lava.png<>uid://dgp34tqpjhdss::::res://Assets/Rocky Roads/Tilesets/tileset_snow.png<>uid://blenup6hmtrpj::::res://Assets/Rocky Roads/Tilesets/tileset_water.png<>uid://d26bjvry636qw::::res://Assets/Rocky Roads/Objects/cloud_platforms.png<>uid://lnkb1aatwmye::::res://Assets/Rocky Roads/Deco/clouds.png<>uid://dxyd8648l0fkf::::res://Assets/Rocky Roads/Deco/water_b_5 frames.png<>uid://cqngki1p3k2fv::::res://Assets/Rocky Roads/Deco/water_a_8frames.png
 ::res://Scripts/::1727183446
 player.gd::GDScript::-1::1727183446::0::1::::<>CharacterBody2D<>::

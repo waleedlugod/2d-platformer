@@ -4,6 +4,7 @@ extends CharacterBody2D
 @export var gravity = 30
 @export var jump_force = 700
 @export var is_underwater = false
+@export var max_underwater_velocity = 100
 @export var max_jumps = 2 # Maximum number of jumps
 @onready var sprite_2d = $Sprite2D
 @onready var area_2d = $Area2D
@@ -16,15 +17,19 @@ func _physics_process(_delta):
 	is_underwater = false
 	gravity = 30
 	jump_force = 700
+	speed = 300
 	for body in area_2d.get_overlapping_bodies():
 		if body.name == "Water":
 			is_underwater = true
-			gravity = 1 
+			gravity = 10
 			jump_force = 300
+			speed = 100
 
 	# Apply gravity when not on the floor
 	if !is_on_floor():
 		velocity.y += gravity
+		if is_underwater and velocity.y > max_underwater_velocity:
+			velocity.y = max_underwater_velocity
 		sprite_2d.animation = "jumping"
 		if velocity.y > 1000:
 			velocity.y = 1000

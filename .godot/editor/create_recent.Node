@@ -1,7 +1,8 @@
+TileMapLayer
+TileMap
 AnimatedSprite2D
 AnimationPlayer
 CollisionShape2D
-TileMap
 TextureRect
 Camera2D
 MeshInstance2D

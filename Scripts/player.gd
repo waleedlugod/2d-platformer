@@ -44,3 +44,8 @@ func _physics_process(delta):
 	sprite_2d.flip_h = last_direction == 1
 
 	move_and_slide()
+
+
+func _input(event : InputEvent):
+	if(event.is_action_pressed("ui_down")):
+		position.y += 1

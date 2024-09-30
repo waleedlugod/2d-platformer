@@ -1,252 +1,253 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727626726
-icon.svg::CompressedTexture2D::1515024303739742768::1727154435::1727622170::1::::<><>::
-::res://Assets/::1727183301
-::res://Assets/Kings and Pigs/::1727180417
-::res://Assets/Kings and Pigs/Aseprite/::1727180417
-::res://Assets/Kings and Pigs/Sprites/::1727622170
-Kings and Pigs.png::CompressedTexture2D::3675358729309913045::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/01-King Human/::1727622170
-Attack (78x58).png::CompressedTexture2D::331894826828887242::1727180417::1727622170::1::::<><>::
-Dead (78x58).png::CompressedTexture2D::4660327311897661203::1727180417::1727622170::1::::<><>::
-Door In (78x58).png::CompressedTexture2D::7135360866050203693::1727180417::1727622170::1::::<><>::
-Door Out (78x58).png::CompressedTexture2D::3403800701659707074::1727180417::1727622170::1::::<><>::
-Fall (78x58).png::CompressedTexture2D::7470923511891101941::1727180417::1727622170::1::::<><>::
-Ground (78x58).png::CompressedTexture2D::3233597906725644769::1727180417::1727622170::1::::<><>::
-Hit (78x58).png::CompressedTexture2D::1209203036681652164::1727180417::1727622170::1::::<><>::
-Idle (78x58).png::CompressedTexture2D::8850237085988920312::1727180417::1727622170::1::::<><>::
-Jump (78x58).png::CompressedTexture2D::2807513703802455710::1727180417::1727622170::1::::<><>::
-Run (78x58).png::CompressedTexture2D::3304584521902057669::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/02-King Pig/::1727622170
-Attack (38x28).png::CompressedTexture2D::2277836385107468032::1727180417::1727622170::1::::<><>::
-Dead (38x28).png::CompressedTexture2D::4559032635570241040::1727180417::1727622170::1::::<><>::
-Fall (38x28).png::CompressedTexture2D::2686384741312187749::1727180417::1727622170::1::::<><>::
-Ground (38x28).png::CompressedTexture2D::793573281506790168::1727180417::1727622170::1::::<><>::
-Hit (38x28).png::CompressedTexture2D::2053059463871963411::1727180417::1727622170::1::::<><>::
-Idle (38x28).png::CompressedTexture2D::182275417534388911::1727180417::1727622170::1::::<><>::
-Jump (38x28).png::CompressedTexture2D::8041804319899729658::1727180417::1727622170::1::::<><>::
-Run (38x28).png::CompressedTexture2D::4491858522993314737::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/03-Pig/::1727622170
-Attack (34x28).png::CompressedTexture2D::4978235058632451172::1727180417::1727622170::1::::<><>::
-Dead (34x28).png::CompressedTexture2D::4068183044410759002::1727180417::1727622170::1::::<><>::
-Fall (34x28).png::CompressedTexture2D::3285252876954274949::1727180417::1727622170::1::::<><>::
-Ground (34x28).png::CompressedTexture2D::683595342037482716::1727180417::1727622170::1::::<><>::
-Hit (34x28).png::CompressedTexture2D::5670598758225932626::1727180417::1727622170::1::::<><>::
-Idle (34x28).png::CompressedTexture2D::4738213375706018343::1727180417::1727622170::1::::<><>::
-Jump (34x28).png::CompressedTexture2D::1368887673658535198::1727180417::1727622170::1::::<><>::
-Run (34x28).png::CompressedTexture2D::3531257128801967778::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/04-Pig Throwing a Box/::1727622170
-Idle (26x30).png::CompressedTexture2D::4093677679544956130::1727180417::1727622170::1::::<><>::
-Picking Box (26x30).png::CompressedTexture2D::5429644609611412199::1727180417::1727622170::1::::<><>::
-Run (26x30).png::CompressedTexture2D::3664603696192713001::1727180417::1727622170::1::::<><>::
-Throwing Box (26x30).png::CompressedTexture2D::9047393593959546851::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/05-Pig Thowing a Bomb/::1727622170
-Idle (26x26).png::CompressedTexture2D::4249312474804479910::1727180417::1727622170::1::::<><>::
-Picking Bomb (26x26).png::CompressedTexture2D::7013721241623365227::1727180417::1727622170::1::::<><>::
-Run (26x26).png::CompressedTexture2D::1968118503449164826::1727180417::1727622170::1::::<><>::
-Throwing Boom (26x26).png::CompressedTexture2D::7100335588940457200::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/06-Pig Hide in the Box/::1727622170
-Fall (26x20).png::CompressedTexture2D::1283509012537990898::1727180417::1727622170::1::::<><>::
-Ground (26x20).png::CompressedTexture2D::9141398151925541534::1727180417::1727622170::1::::<><>::
-Jump (26x20).png::CompressedTexture2D::3747062486616251843::1727180417::1727622170::1::::<><>::
-Jump Anticipation (26x20).png::CompressedTexture2D::8122088787230280972::1727180417::1727622170::1::::<><>::
-Looking Out (26x20).png::CompressedTexture2D::2981589622039913165::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/::1727622170
-Lighting the Cannon (26x18).png::CompressedTexture2D::3131884328508482840::1727180417::1727622170::1::::<><>::
-Lighting the Match (26x18).png::CompressedTexture2D::7183812096235412009::1727180417::1727622170::1::::<><>::
-Match On (26x18).png::CompressedTexture2D::9149699577556791284::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/08-Box/::1727622170
-Box Pieces 1.png::CompressedTexture2D::1893922288387772939::1727180417::1727622170::1::::<><>::
-Box Pieces 2.png::CompressedTexture2D::8085449714362085339::1727180417::1727622170::1::::<><>::
-Box Pieces 3.png::CompressedTexture2D::8932265005360096812::1727180417::1727622170::1::::<><>::
-Box Pieces 4.png::CompressedTexture2D::2755883161698853789::1727180417::1727622170::1::::<><>::
-Hit.png::CompressedTexture2D::1238017811139130229::1727180417::1727622170::1::::<><>::
-Idle.png::CompressedTexture2D::5535110937218664239::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/09-Bomb/::1727622170
-Bomb Off.png::CompressedTexture2D::8240133186510212776::1727180417::1727622170::1::::<><>::
-Bomb On (52x56).png::CompressedTexture2D::810947198401281354::1727180417::1727622170::1::::<><>::
-Boooooom (52x56).png::CompressedTexture2D::1530545895923243824::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/10-Cannon/::1727622170
-Cannon Ball.png::CompressedTexture2D::4241409447878251954::1727180417::1727622170::1::::<><>::
-Idle.png::CompressedTexture2D::5910037895469161429::1727180417::1727622170::1::::<><>::
-Shoot (44x28).png::CompressedTexture2D::2038908416206322585::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/11-Door/::1727622170
-Closiong (46x56).png::CompressedTexture2D::7699318034827261798::1727180417::1727622170::1::::<><>::
-Idle.png::CompressedTexture2D::1840322551624706376::1727180417::1727622170::1::::<><>::
-Opening (46x56).png::CompressedTexture2D::754916588798160138::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/12-Live and Coins/::1727622170
-Big Diamond Hit (18x14).png::CompressedTexture2D::6389546364031447540::1727180417::1727622170::1::::<><>::
-Big Diamond Idle (18x14).png::CompressedTexture2D::5454861943203795597::1727180417::1727622170::1::::<><>::
-Big Heart Hit (18x14).png::CompressedTexture2D::8639266531825970778::1727180417::1727622170::1::::<><>::
-Big Heart Idle (18x14).png::CompressedTexture2D::5600638687481128085::1727180417::1727622170::1::::<><>::
-Live Bar.png::CompressedTexture2D::4156816647299713094::1727180417::1727622170::1::::<><>::
-Numbers (6x8).png::CompressedTexture2D::3128336117550699950::1727180417::1727622170::1::::<><>::
-Small Diamond (18x14).png::CompressedTexture2D::2904164553236306484::1727180417::1727622170::1::::<><>::
-Small Heart Hit (18x14).png::CompressedTexture2D::3431530555004039899::1727180417::1727622170::1::::<><>::
-Small Heart Idle (18x14).png::CompressedTexture2D::3633237939456546124::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/::1727622170
-!!! In (24x8).png::CompressedTexture2D::6422714230998914534::1727180417::1727622170::1::::<><>::
-!!! Out (24x8).png::CompressedTexture2D::5932965025267149255::1727180417::1727622170::1::::<><>::
-Attack In (24x8).png::CompressedTexture2D::5439866628098631226::1727180417::1727622170::1::::<><>::
-Attack Out (24x8).png::CompressedTexture2D::4253545873038493268::1727180417::1727622170::1::::<><>::
-Boom In (24x8).png::CompressedTexture2D::1003798732053757766::1727180417::1727622170::1::::<><>::
-Boom Out (24x8).png::CompressedTexture2D::7099452070212646874::1727180417::1727622170::1::::<><>::
-Dead In (24x8).png::CompressedTexture2D::3445613798723246437::1727180417::1727622170::1::::<><>::
-Dead Out (24x8).png::CompressedTexture2D::5249630375633574502::1727180417::1727622170::1::::<><>::
-Hello In (24x8).png::CompressedTexture2D::7370612381602001165::1727180417::1727622170::1::::<><>::
-Hello Out (24x8).png::CompressedTexture2D::2622679328291409413::1727180417::1727622170::1::::<><>::
-Hi In (24x8).png::CompressedTexture2D::3913364644795300223::1727180417::1727622170::1::::<><>::
-Hi Out (24x8).png::CompressedTexture2D::1516774022296345005::1727180417::1727622170::1::::<><>::
-Interrogation In (24x8).png::CompressedTexture2D::185026586843748969::1727180417::1727622170::1::::<><>::
-Interrogation Out (24x8).png::CompressedTexture2D::1162325171560625528::1727180417::1727622170::1::::<><>::
-Loser In (24x8).png::CompressedTexture2D::268849756012566243::1727180417::1727622170::1::::<><>::
-Loser Out (24x8).png::CompressedTexture2D::7892081371341342687::1727180417::1727622170::1::::<><>::
-No In (24x8).png::CompressedTexture2D::8543911960647727566::1727180417::1727622170::1::::<><>::
-No Out (24x8).png::CompressedTexture2D::3412552427916917873::1727180417::1727622170::1::::<><>::
-WTF In (24x8).png::CompressedTexture2D::3839170181550999790::1727180417::1727622170::1::::<><>::
-WTF Out (24x8).png::CompressedTexture2D::4356483601394735447::1727180417::1727622170::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/14-TileSets/::1727622170
-Decorations (32x32).png::CompressedTexture2D::7029062996798024795::1727180417::1727622170::1::::<><>::
-Terrain (32x32).png::CompressedTexture2D::7206412940261329404::1727180417::1727622170::1::::<><>::
-::res://Assets/oak_woods_v1.0/::1727622170
-oak_woods_tileset.png::CompressedTexture2D::3105754893535922687::1727180391::1727622170::1::::<><>::
-readme.TXT::TextFile::-1::1727180391::0::1::::<><>::
-::res://Assets/oak_woods_v1.0/background/::1727622170
-background_layer_1.png::CompressedTexture2D::3667183523037568482::1727180391::1727622170::1::::<><>::
-background_layer_2.png::CompressedTexture2D::3627436226756403243::1727180391::1727622170::1::::<><>::
-background_layer_3.png::CompressedTexture2D::623081182142827158::1727180391::1727622170::1::::<><>::
-::res://Assets/oak_woods_v1.0/character/::1727622170
-char_blue.png::CompressedTexture2D::8579488773448716003::1727180391::1727622170::1::::<><>::
-::res://Assets/oak_woods_v1.0/decorations/::1727622170
-fence_1.png::CompressedTexture2D::668563684165323725::1727180391::1727622170::1::::<><>::
-fence_2.png::CompressedTexture2D::5568472382849855061::1727180391::1727622170::1::::<><>::
-grass_1.png::CompressedTexture2D::5010065057679128960::1727180391::1727622170::1::::<><>::
-grass_2.png::CompressedTexture2D::83729277141302374::1727180391::1727622170::1::::<><>::
-grass_3.png::CompressedTexture2D::6861891991069679515::1727180391::1727622170::1::::<><>::
-lamp.png::CompressedTexture2D::4495411223573363179::1727180391::1727622170::1::::<><>::
-rock_1.png::CompressedTexture2D::7156704492600635001::1727180391::1727622170::1::::<><>::
-rock_2.png::CompressedTexture2D::933170248334283251::1727180391::1727622170::1::::<><>::
-rock_3.png::CompressedTexture2D::7060462379600133838::1727180391::1727622170::1::::<><>::
-shop.png::CompressedTexture2D::5495566964302050617::1727180391::1727622170::1::::<><>::
-shop_anim.png::CompressedTexture2D::6359264063963641701::1727180391::1727622170::1::::<><>::
-sign.png::CompressedTexture2D::412729208975322914::1727180391::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/::1727194581
-::res://Assets/Rocky Roads/Backgrounds/::1727622170
-background color.png::CompressedTexture2D::2904493192480790447::1727194566::1727622170::1::::<><>::
-clouds.png::CompressedTexture2D::8981081965435494551::1675353386::1727622170::1::::<><>::
-desert_a.png::CompressedTexture2D::2220086070808966785::1675352626::1727622170::1::::<><>::
-desert_b resize.png::CompressedTexture2D::181858277139664602::1727184171::1727622170::1::::<><>::
-desert_b.png::CompressedTexture2D::1598207159537504616::1727184244::1727622170::1::::<><>::
-mountains_a.png::CompressedTexture2D::3473882323987671331::1639549042::1727622170::1::::<><>::
-mountains_b.png::CompressedTexture2D::3069476383952018845::1639549042::1727622170::1::::<><>::
-trees.png::CompressedTexture2D::4149457337082582793::1639549042::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/Deco/::1727622170
-bush.png::CompressedTexture2D::3845398162494915901::1675086420::1727622170::1::::<><>::
-clouds.png::CompressedTexture2D::799524512176076356::1627812060::1727622170::1::::<><>::
-lava.png::CompressedTexture2D::767190466435017852::1625340290::1727622170::1::::<><>::
-log_wall.png::CompressedTexture2D::8685390457035053027::1675086394::1727622170::1::::<><>::
-rock.png::CompressedTexture2D::1264071387391435040::1675086630::1727622170::1::::<><>::
-sun.png::CompressedTexture2D::3292041006794111192::1636562110::1727622170::1::::<><>::
-tree.png::CompressedTexture2D::365141984617243726::1675351488::1727622170::1::::<><>::
-tree_b.png::CompressedTexture2D::7824873383257169673::1675351400::1727622170::1::::<><>::
-tree_c.png::CompressedTexture2D::2179444658585592615::1675353038::1727622170::1::::<><>::
-tree_trunk.png::CompressedTexture2D::8172650361898205356::1675081150::1727622170::1::::<><>::
-water_a_8frames.png::CompressedTexture2D::5923082397364234267::1627827006::1727622170::1::::<><>::
-water_b_5 frames.png::CompressedTexture2D::8823393277566883525::1675086828::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/Enemies/::1727622170
-bat.png::CompressedTexture2D::7602849486551797306::1675088146::1727622170::1::::<><>::
-bear_brown.png::CompressedTexture2D::8533950054795722167::1675087824::1727622170::1::::<><>::
-bear_polar.png::CompressedTexture2D::8178986874079758369::1675087882::1727622170::1::::<><>::
-bird.png::CompressedTexture2D::6125438131478927648::1674826500::1727622170::1::::<><>::
-bomb.png::CompressedTexture2D::1519060586037424585::1675088226::1727622170::1::::<><>::
-bullet.png::CompressedTexture2D::8554072448632155905::1639549042::1727622170::1::::<><>::
-cactus.png::CompressedTexture2D::1330137283459238531::1675089160::1727622170::1::::<><>::
-cactus_spike.png::CompressedTexture2D::2194571531009786600::1675089220::1727622170::1::::<><>::
-cannon.png::CompressedTexture2D::3725351199461518291::1675088456::1727622170::1::::<><>::
-chicken.png::CompressedTexture2D::4168269264667895843::1675080336::1727622170::1::::<><>::
-crab.png::CompressedTexture2D::4679000721043336458::1675346914::1727622170::1::::<><>::
-fire.png::CompressedTexture2D::4541934018710238862::1639549042::1727622170::1::::<><>::
-fireball.png::CompressedTexture2D::1276348543863193048::1675344210::1727622170::1::::<><>::
-fire_big.png::CompressedTexture2D::809711268470402628::1675342392::1727622170::1::::<><>::
-fish.png::CompressedTexture2D::7243271456236377454::1675345958::1727622170::1::::<><>::
-frog.png::CompressedTexture2D::4070755369655773226::1675089808::1727622170::1::::<><>::
-ice_spikes.png::CompressedTexture2D::2789445522629655273::1675387864::1727622170::1::::<><>::
-icicle.png::CompressedTexture2D::3521308159261347789::1675347806::1727622170::1::::<><>::
-lightning.png::CompressedTexture2D::8946554496658456989::1673865442::1727622170::1::::<><>::
-penguin.png::CompressedTexture2D::8509929061795511705::1675343184::1727622170::1::::<><>::
-propeller.png::CompressedTexture2D::4075884849847167593::1675088520::1727622170::1::::<><>::
-quicksand_8frames.png::CompressedTexture2D::1554445723490760699::1675090512::1727622170::1::::<><>::
-saw.png::CompressedTexture2D::3476013560670151093::1675091518::1727622170::1::::<><>::
-shark.png::CompressedTexture2D::1053502365694295006::1675089888::1727622170::1::::<><>::
-slime_blue.png::CompressedTexture2D::3294746433611046396::1675389438::1727622170::1::::<><>::
-slime_red.png::CompressedTexture2D::4751434989783723851::1674955878::1727622170::1::::<><>::
-snake.png::CompressedTexture2D::62873584695090229::1675089414::1727622170::1::::<><>::
-spikes.png::CompressedTexture2D::3126026166659185752::1639549042::1727622170::1::::<><>::
-tornado.png::CompressedTexture2D::3315109845106309541::1675344724::1727622170::1::::<><>::
-tornado_sand.png::CompressedTexture2D::8059488380903551888::1675344852::1727622170::1::::<><>::
-wood_stakes.png::CompressedTexture2D::939955613336803284::1675089964::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/FX/::1727622170
-boing.png::CompressedTexture2D::6681766547808262264::1673863652::1727622170::1::::<><>::
-bomb_explosion.png::CompressedTexture2D::3913521507781383567::1639549042::1727622170::1::::<><>::
-bubble.png::CompressedTexture2D::3231733782624554783::1674938628::1727622170::1::::<><>::
-bullet_windtrail.png::CompressedTexture2D::3327472460466615916::1639549042::1727622170::1::::<><>::
-cannon_fire_smoke.png::CompressedTexture2D::643764612909425194::1639549042::1727622170::1::::<><>::
-coin_collect.png::CompressedTexture2D::7200776615704414763::1639912872::1727622170::1::::<><>::
-dust.png::CompressedTexture2D::6422236406393400028::1675344712::1727622170::1::::<><>::
-exclamation.png::CompressedTexture2D::8918272671209526832::1674934904::1727622170::1::::<><>::
-hit.png::CompressedTexture2D::6876333474114307755::1675085478::1727622170::1::::<><>::
-rain_particles.png::CompressedTexture2D::6317387648292352192::1674814786::1727622170::1::::<><>::
-shine.png::CompressedTexture2D::2251736665312672012::1639549042::1727622170::1::::<><>::
-shine_white.png::CompressedTexture2D::2841711790263770800::1675389604::1727622170::1::::<><>::
-snow_particle.png::CompressedTexture2D::2684427305867346819::1674814826::1727622170::1::::<><>::
-splash.png::CompressedTexture2D::688153096668810525::1675085656::1727622170::1::::<><>::
-thought_bubble.png::CompressedTexture2D::4003833162783164561::1674936846::1727622170::1::::<><>::
-walk_dust.png::CompressedTexture2D::2792278050883339516::1675080200::1727622170::1::::<><>::
-wind.png::CompressedTexture2D::8647693030921837326::1674028680::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/Objects/::1727622170
-apple.png::CompressedTexture2D::3577027766896067406::1674810208::1727622170::1::::<><>::
-banana.png::CompressedTexture2D::4730274392905872671::1673785694::1727622170::1::::<><>::
-bounce pad.png::CompressedTexture2D::647491075332136005::1671271368::1727622170::1::::<><>::
-brick_box.png::CompressedTexture2D::6015899391132487318::1675083362::1727622170::1::::<><>::
-button.png::CompressedTexture2D::2607586034789904857::1671267210::1727622170::1::::<><>::
-cloud_platforms.png::CompressedTexture2D::9118434459204982722::1675389436::1727622170::1::::<><>::
-coin_gold.png::CompressedTexture2D::2901515164382361920::1675388878::1727622170::1::::<><>::
-coin_silver.png::CompressedTexture2D::3384297289019876699::1671266762::1727622170::1::::<><>::
-coin_small_gold.png::CompressedTexture2D::3803744678244388600::1675084028::1727622170::1::::<><>::
-coin_small_silver.png::CompressedTexture2D::1179561092390777582::1675084082::1727622170::1::::<><>::
-crate.png::CompressedTexture2D::3570916630413455026::1675389442::1727622170::1::::<><>::
-flag.png::CompressedTexture2D::8525800201115884836::1671266910::1727622170::1::::<><>::
-gem.png::CompressedTexture2D::4657687316492457638::1675389446::1727622170::1::::<><>::
-heart.png::CompressedTexture2D::8580298352408712285::1639549042::1727622170::1::::<><>::
-key.png::CompressedTexture2D::1738152285491212782::1675389538::1727622170::1::::<><>::
-ladder.png::CompressedTexture2D::8507734895841077427::1671271080::1727622170::1::::<><>::
-lock.png::CompressedTexture2D::5569765883442312708::1671269732::1727622170::1::::<><>::
-sign.png::CompressedTexture2D::4673035064243800538::1671273180::1727622170::1::::<><>::
-sign_arrow.png::CompressedTexture2D::9164200192796973640::1674809540::1727622170::1::::<><>::
-treasure_chest.png::CompressedTexture2D::3894059013618772091::1675388870::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/Tilesets/::1727626850
-snow platform.png::CompressedTexture2D::3971280809426524456::1727626850::1727626852::1::::<><>::
-tileset_desert.png::CompressedTexture2D::161000633218132465::1675348110::1727622170::1::::<><>::
-tileset_dirt.png::CompressedTexture2D::394235967541976148::1675354022::1727622170::1::::<><>::
-tileset_forest.png::CompressedTexture2D::4167767160231084040::1639549042::1727622170::1::::<><>::
-tileset_lava.png::CompressedTexture2D::3162481911078598966::1639549042::1727622170::1::::<><>::
-tileset_snow.png::CompressedTexture2D::7613113666393458090::1675389434::1727622170::1::::<><>::
-tileset_water.png::CompressedTexture2D::3167581347585798339::1675347884::1727622170::1::::<><>::
-::res://Assets/Rocky Roads/UI/::1727622170
-arrow.png::CompressedTexture2D::3785641405089526203::1675086316::1727622170::1::::<><>::
-background color.png::CompressedTexture2D::8326946868117477528::1727194607::1727622170::1::::<><>::
-buttons.png::CompressedTexture2D::4760543255636097977::1675086276::1727622170::1::::<><>::
-coin.png::CompressedTexture2D::2733004812182949909::1675086244::1727622170::1::::<><>::
-gem.png::CompressedTexture2D::3566639387172576070::1675086226::1727622170::1::::<><>::
-go.png::CompressedTexture2D::2752548441653980201::1675086296::1727622170::1::::<><>::
-healthbar.png::CompressedTexture2D::4691911587503658658::1675086164::1727622170::1::::<><>::
-hearts.png::CompressedTexture2D::3510531370509175121::1675086204::1727622170::1::::<><>::
-text.png::CompressedTexture2D::8211724766957318004::1675086134::1727622170::1::::<><>::
-text_fx.png::CompressedTexture2D::4320283863214747353::1675086134::1727622170::1::::<><>::
-ui.png::CompressedTexture2D::358625726496494664::1675085966::1727622170::1::::<><>::
-::res://Deliverable 2/::1727154435
-::res://scenes/::1727626726
-player.tscn::PackedScene::3862821655133752832::1727626425::0::1::::<><>::res://Scripts/player.gd<>uid://cukbxhnkvwff::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Idle (38x28).png<>uid://duh76rf4jdspv::::res://Assets/oak_woods_v1.0/character/char_blue.png<>uid://dmtrlvu4rdmhu::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Jump (38x28).png<>uid://b485ivfxoyxl6::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Run (38x28).png
-world.tscn::PackedScene::2228028633689098547::1727626425::0::1::::<><>::uid://bvbgdxgofx7bw::::res://scenes/player.tscn<>uid://bhm7tw1qk2n88::::res://Assets/Rocky Roads/Backgrounds/background color.png<>uid://bpq1lmqyt86k2::::res://Assets/Rocky Roads/Backgrounds/mountains_a.png<>uid://b0m5rs0e2vpm3::::res://Assets/Rocky Roads/Tilesets/tileset_forest.png<>uid://fu8akfme6li7::::res://Assets/Rocky Roads/Tilesets/tileset_dirt.png<>uid://blb6u58gfwmw1::::res://Assets/Rocky Roads/Tilesets/tileset_lava.png<>uid://dgp34tqpjhdss::::res://Assets/Rocky Roads/Tilesets/tileset_snow.png<>uid://blenup6hmtrpj::::res://Assets/Rocky Roads/Tilesets/tileset_water.png<>uid://d26bjvry636qw::::res://Assets/Rocky Roads/Objects/cloud_platforms.png<>uid://lnkb1aatwmye::::res://Assets/Rocky Roads/Deco/clouds.png<>uid://dxyd8648l0fkf::::res://Assets/Rocky Roads/Deco/water_b_5 frames.png<>uid://cqngki1p3k2fv::::res://Assets/Rocky Roads/Deco/water_a_8frames.png<>uid://bou0ibp6bumyc::::res://Assets/Rocky Roads/Tilesets/snow copy.png
-::res://Scripts/::1727626373
-player.gd::GDScript::-1::1727626373::0::1::::<>CharacterBody2D<>::
+::res://::1727703016
+icon.svg::CompressedTexture2D::1515024303739742768::1727702535::1727702838::1::::<><>::
+::res://Assets/::1727702535
+::res://Assets/Kings and Pigs/::1727702535
+::res://Assets/Kings and Pigs/Aseprite/::1727702535
+::res://Assets/Kings and Pigs/Sprites/::1727702838
+Kings and Pigs.png::CompressedTexture2D::3675358729309913045::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/01-King Human/::1727702838
+Attack (78x58).png::CompressedTexture2D::331894826828887242::1727702535::1727702838::1::::<><>::
+Dead (78x58).png::CompressedTexture2D::4660327311897661203::1727702535::1727702838::1::::<><>::
+Door In (78x58).png::CompressedTexture2D::7135360866050203693::1727702535::1727702838::1::::<><>::
+Door Out (78x58).png::CompressedTexture2D::3403800701659707074::1727702535::1727702838::1::::<><>::
+Fall (78x58).png::CompressedTexture2D::7470923511891101941::1727702535::1727702838::1::::<><>::
+Ground (78x58).png::CompressedTexture2D::3233597906725644769::1727702535::1727702838::1::::<><>::
+Hit (78x58).png::CompressedTexture2D::1209203036681652164::1727702535::1727702838::1::::<><>::
+Idle (78x58).png::CompressedTexture2D::8850237085988920312::1727702535::1727702838::1::::<><>::
+Jump (78x58).png::CompressedTexture2D::2807513703802455710::1727702535::1727702838::1::::<><>::
+Run (78x58).png::CompressedTexture2D::3304584521902057669::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/02-King Pig/::1727702838
+Attack (38x28).png::CompressedTexture2D::2277836385107468032::1727702535::1727702838::1::::<><>::
+Dead (38x28).png::CompressedTexture2D::4559032635570241040::1727702535::1727702838::1::::<><>::
+Fall (38x28).png::CompressedTexture2D::2686384741312187749::1727702535::1727702838::1::::<><>::
+Ground (38x28).png::CompressedTexture2D::793573281506790168::1727702535::1727702838::1::::<><>::
+Hit (38x28).png::CompressedTexture2D::2053059463871963411::1727702535::1727702838::1::::<><>::
+Idle (38x28).png::CompressedTexture2D::182275417534388911::1727702535::1727702838::1::::<><>::
+Jump (38x28).png::CompressedTexture2D::8041804319899729658::1727702535::1727702838::1::::<><>::
+Run (38x28).png::CompressedTexture2D::4491858522993314737::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/03-Pig/::1727702838
+Attack (34x28).png::CompressedTexture2D::4978235058632451172::1727702535::1727702838::1::::<><>::
+Dead (34x28).png::CompressedTexture2D::4068183044410759002::1727702535::1727702838::1::::<><>::
+Fall (34x28).png::CompressedTexture2D::3285252876954274949::1727702535::1727702838::1::::<><>::
+Ground (34x28).png::CompressedTexture2D::683595342037482716::1727702535::1727702838::1::::<><>::
+Hit (34x28).png::CompressedTexture2D::5670598758225932626::1727702535::1727702838::1::::<><>::
+Idle (34x28).png::CompressedTexture2D::4738213375706018343::1727702535::1727702838::1::::<><>::
+Jump (34x28).png::CompressedTexture2D::1368887673658535198::1727702535::1727702838::1::::<><>::
+Run (34x28).png::CompressedTexture2D::3531257128801967778::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/04-Pig Throwing a Box/::1727702838
+Idle (26x30).png::CompressedTexture2D::4093677679544956130::1727702535::1727702838::1::::<><>::
+Picking Box (26x30).png::CompressedTexture2D::5429644609611412199::1727702535::1727702838::1::::<><>::
+Run (26x30).png::CompressedTexture2D::3664603696192713001::1727702535::1727702838::1::::<><>::
+Throwing Box (26x30).png::CompressedTexture2D::9047393593959546851::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/05-Pig Thowing a Bomb/::1727702838
+Idle (26x26).png::CompressedTexture2D::4249312474804479910::1727702535::1727702838::1::::<><>::
+Picking Bomb (26x26).png::CompressedTexture2D::7013721241623365227::1727702535::1727702838::1::::<><>::
+Run (26x26).png::CompressedTexture2D::1968118503449164826::1727702535::1727702838::1::::<><>::
+Throwing Boom (26x26).png::CompressedTexture2D::7100335588940457200::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/06-Pig Hide in the Box/::1727702838
+Fall (26x20).png::CompressedTexture2D::1283509012537990898::1727702535::1727702838::1::::<><>::
+Ground (26x20).png::CompressedTexture2D::9141398151925541534::1727702535::1727702838::1::::<><>::
+Jump (26x20).png::CompressedTexture2D::3747062486616251843::1727702535::1727702838::1::::<><>::
+Jump Anticipation (26x20).png::CompressedTexture2D::8122088787230280972::1727702535::1727702838::1::::<><>::
+Looking Out (26x20).png::CompressedTexture2D::2981589622039913165::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/::1727702838
+Lighting the Cannon (26x18).png::CompressedTexture2D::3131884328508482840::1727702535::1727702838::1::::<><>::
+Lighting the Match (26x18).png::CompressedTexture2D::7183812096235412009::1727702535::1727702838::1::::<><>::
+Match On (26x18).png::CompressedTexture2D::9149699577556791284::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/08-Box/::1727702838
+Box Pieces 1.png::CompressedTexture2D::1893922288387772939::1727702535::1727702838::1::::<><>::
+Box Pieces 2.png::CompressedTexture2D::8085449714362085339::1727702535::1727702838::1::::<><>::
+Box Pieces 3.png::CompressedTexture2D::8932265005360096812::1727702535::1727702838::1::::<><>::
+Box Pieces 4.png::CompressedTexture2D::2755883161698853789::1727702535::1727702838::1::::<><>::
+Hit.png::CompressedTexture2D::1238017811139130229::1727702535::1727702838::1::::<><>::
+Idle.png::CompressedTexture2D::5535110937218664239::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/09-Bomb/::1727702838
+Bomb Off.png::CompressedTexture2D::8240133186510212776::1727702535::1727702838::1::::<><>::
+Bomb On (52x56).png::CompressedTexture2D::810947198401281354::1727702535::1727702838::1::::<><>::
+Boooooom (52x56).png::CompressedTexture2D::1530545895923243824::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/10-Cannon/::1727702838
+Cannon Ball.png::CompressedTexture2D::4241409447878251954::1727702535::1727702838::1::::<><>::
+Idle.png::CompressedTexture2D::5910037895469161429::1727702535::1727702838::1::::<><>::
+Shoot (44x28).png::CompressedTexture2D::2038908416206322585::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/11-Door/::1727702838
+Closiong (46x56).png::CompressedTexture2D::7699318034827261798::1727702535::1727702838::1::::<><>::
+Idle.png::CompressedTexture2D::1840322551624706376::1727702535::1727702838::1::::<><>::
+Opening (46x56).png::CompressedTexture2D::754916588798160138::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/12-Live and Coins/::1727702838
+Big Diamond Hit (18x14).png::CompressedTexture2D::6389546364031447540::1727702535::1727702838::1::::<><>::
+Big Diamond Idle (18x14).png::CompressedTexture2D::5454861943203795597::1727702535::1727702838::1::::<><>::
+Big Heart Hit (18x14).png::CompressedTexture2D::8639266531825970778::1727702535::1727702838::1::::<><>::
+Big Heart Idle (18x14).png::CompressedTexture2D::5600638687481128085::1727702535::1727702838::1::::<><>::
+Live Bar.png::CompressedTexture2D::4156816647299713094::1727702535::1727702838::1::::<><>::
+Numbers (6x8).png::CompressedTexture2D::3128336117550699950::1727702535::1727702838::1::::<><>::
+Small Diamond (18x14).png::CompressedTexture2D::2904164553236306484::1727702535::1727702838::1::::<><>::
+Small Heart Hit (18x14).png::CompressedTexture2D::3431530555004039899::1727702535::1727702838::1::::<><>::
+Small Heart Idle (18x14).png::CompressedTexture2D::3633237939456546124::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/::1727702838
+!!! In (24x8).png::CompressedTexture2D::6422714230998914534::1727702535::1727702838::1::::<><>::
+!!! Out (24x8).png::CompressedTexture2D::5932965025267149255::1727702535::1727702838::1::::<><>::
+Attack In (24x8).png::CompressedTexture2D::5439866628098631226::1727702535::1727702838::1::::<><>::
+Attack Out (24x8).png::CompressedTexture2D::4253545873038493268::1727702535::1727702838::1::::<><>::
+Boom In (24x8).png::CompressedTexture2D::1003798732053757766::1727702535::1727702838::1::::<><>::
+Boom Out (24x8).png::CompressedTexture2D::7099452070212646874::1727702535::1727702838::1::::<><>::
+Dead In (24x8).png::CompressedTexture2D::3445613798723246437::1727702535::1727702838::1::::<><>::
+Dead Out (24x8).png::CompressedTexture2D::5249630375633574502::1727702535::1727702838::1::::<><>::
+Hello In (24x8).png::CompressedTexture2D::7370612381602001165::1727702535::1727702838::1::::<><>::
+Hello Out (24x8).png::CompressedTexture2D::2622679328291409413::1727702535::1727702838::1::::<><>::
+Hi In (24x8).png::CompressedTexture2D::3913364644795300223::1727702535::1727702838::1::::<><>::
+Hi Out (24x8).png::CompressedTexture2D::1516774022296345005::1727702535::1727702838::1::::<><>::
+Interrogation In (24x8).png::CompressedTexture2D::185026586843748969::1727702535::1727702838::1::::<><>::
+Interrogation Out (24x8).png::CompressedTexture2D::1162325171560625528::1727702535::1727702838::1::::<><>::
+Loser In (24x8).png::CompressedTexture2D::268849756012566243::1727702535::1727702838::1::::<><>::
+Loser Out (24x8).png::CompressedTexture2D::7892081371341342687::1727702535::1727702838::1::::<><>::
+No In (24x8).png::CompressedTexture2D::8543911960647727566::1727702535::1727702838::1::::<><>::
+No Out (24x8).png::CompressedTexture2D::3412552427916917873::1727702535::1727702838::1::::<><>::
+WTF In (24x8).png::CompressedTexture2D::3839170181550999790::1727702535::1727702838::1::::<><>::
+WTF Out (24x8).png::CompressedTexture2D::4356483601394735447::1727702535::1727702838::1::::<><>::
+::res://Assets/Kings and Pigs/Sprites/14-TileSets/::1727702838
+Decorations (32x32).png::CompressedTexture2D::7029062996798024795::1727702535::1727702838::1::::<><>::
+Terrain (32x32).png::CompressedTexture2D::7206412940261329404::1727702535::1727702838::1::::<><>::
+::res://Assets/oak_woods_v1.0/::1727702838
+oak_woods_tileset.png::CompressedTexture2D::3105754893535922687::1727702535::1727702838::1::::<><>::
+readme.TXT::TextFile::-1::1727702535::0::1::::<><>::
+::res://Assets/oak_woods_v1.0/background/::1727702838
+background_layer_1.png::CompressedTexture2D::3667183523037568482::1727702535::1727702838::1::::<><>::
+background_layer_2.png::CompressedTexture2D::3627436226756403243::1727702535::1727702838::1::::<><>::
+background_layer_3.png::CompressedTexture2D::623081182142827158::1727702535::1727702838::1::::<><>::
+::res://Assets/oak_woods_v1.0/character/::1727702838
+char_blue.png::CompressedTexture2D::8579488773448716003::1727702535::1727702838::1::::<><>::
+::res://Assets/oak_woods_v1.0/decorations/::1727702838
+fence_1.png::CompressedTexture2D::668563684165323725::1727702535::1727702838::1::::<><>::
+fence_2.png::CompressedTexture2D::5568472382849855061::1727702535::1727702838::1::::<><>::
+grass_1.png::CompressedTexture2D::5010065057679128960::1727702535::1727702838::1::::<><>::
+grass_2.png::CompressedTexture2D::83729277141302374::1727702535::1727702838::1::::<><>::
+grass_3.png::CompressedTexture2D::6861891991069679515::1727702535::1727702838::1::::<><>::
+lamp.png::CompressedTexture2D::4495411223573363179::1727702535::1727702838::1::::<><>::
+rock_1.png::CompressedTexture2D::7156704492600635001::1727702535::1727702838::1::::<><>::
+rock_2.png::CompressedTexture2D::933170248334283251::1727702535::1727702838::1::::<><>::
+rock_3.png::CompressedTexture2D::7060462379600133838::1727702535::1727702838::1::::<><>::
+shop.png::CompressedTexture2D::5495566964302050617::1727702535::1727702838::1::::<><>::
+shop_anim.png::CompressedTexture2D::6359264063963641701::1727702535::1727702838::1::::<><>::
+sign.png::CompressedTexture2D::412729208975322914::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/::1727702838
+oak_woods_tileset.png::CompressedTexture2D::3105754893535922687::1727702625::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/Backgrounds/::1727702838
+background color.png::CompressedTexture2D::2904493192480790447::1727702535::1727702838::1::::<><>::
+clouds.png::CompressedTexture2D::8981081965435494551::1727702535::1727702838::1::::<><>::
+desert_a.png::CompressedTexture2D::2220086070808966785::1727702535::1727702838::1::::<><>::
+desert_b resize.png::CompressedTexture2D::181858277139664602::1727702535::1727702838::1::::<><>::
+desert_b.png::CompressedTexture2D::1598207159537504616::1727702535::1727702838::1::::<><>::
+mountains_a.png::CompressedTexture2D::3473882323987671331::1727702535::1727702838::1::::<><>::
+mountains_b.png::CompressedTexture2D::3069476383952018845::1727702535::1727702838::1::::<><>::
+trees.png::CompressedTexture2D::4149457337082582793::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/Deco/::1727702838
+bush.png::CompressedTexture2D::3845398162494915901::1727702535::1727702838::1::::<><>::
+clouds.png::CompressedTexture2D::799524512176076356::1727702535::1727702838::1::::<><>::
+lava.png::CompressedTexture2D::767190466435017852::1727702535::1727702838::1::::<><>::
+log_wall.png::CompressedTexture2D::8685390457035053027::1727702535::1727702838::1::::<><>::
+rock.png::CompressedTexture2D::1264071387391435040::1727702535::1727702838::1::::<><>::
+sun.png::CompressedTexture2D::3292041006794111192::1727702535::1727702838::1::::<><>::
+tree.png::CompressedTexture2D::365141984617243726::1727702535::1727702838::1::::<><>::
+tree_b.png::CompressedTexture2D::7824873383257169673::1727702535::1727702838::1::::<><>::
+tree_c.png::CompressedTexture2D::2179444658585592615::1727702535::1727702838::1::::<><>::
+tree_trunk.png::CompressedTexture2D::8172650361898205356::1727702535::1727702838::1::::<><>::
+water_a_8frames.png::CompressedTexture2D::5923082397364234267::1727702535::1727702838::1::::<><>::
+water_b_5 frames.png::CompressedTexture2D::8823393277566883525::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/Enemies/::1727702838
+bat.png::CompressedTexture2D::7602849486551797306::1727702535::1727702838::1::::<><>::
+bear_brown.png::CompressedTexture2D::8533950054795722167::1727702535::1727702838::1::::<><>::
+bear_polar.png::CompressedTexture2D::8178986874079758369::1727702535::1727702838::1::::<><>::
+bird.png::CompressedTexture2D::6125438131478927648::1727702535::1727702838::1::::<><>::
+bomb.png::CompressedTexture2D::1519060586037424585::1727702535::1727702838::1::::<><>::
+bullet.png::CompressedTexture2D::8554072448632155905::1727702535::1727702838::1::::<><>::
+cactus.png::CompressedTexture2D::1330137283459238531::1727702535::1727702838::1::::<><>::
+cactus_spike.png::CompressedTexture2D::2194571531009786600::1727702535::1727702838::1::::<><>::
+cannon.png::CompressedTexture2D::3725351199461518291::1727702535::1727702838::1::::<><>::
+chicken.png::CompressedTexture2D::4168269264667895843::1727702535::1727702838::1::::<><>::
+crab.png::CompressedTexture2D::4679000721043336458::1727702535::1727702838::1::::<><>::
+fire.png::CompressedTexture2D::4541934018710238862::1727702535::1727702838::1::::<><>::
+fireball.png::CompressedTexture2D::1276348543863193048::1727702535::1727702838::1::::<><>::
+fire_big.png::CompressedTexture2D::809711268470402628::1727702535::1727702838::1::::<><>::
+fish.png::CompressedTexture2D::7243271456236377454::1727702535::1727702838::1::::<><>::
+frog.png::CompressedTexture2D::4070755369655773226::1727702535::1727702838::1::::<><>::
+ice_spikes.png::CompressedTexture2D::2789445522629655273::1727702535::1727702838::1::::<><>::
+icicle.png::CompressedTexture2D::3521308159261347789::1727702535::1727702838::1::::<><>::
+lightning.png::CompressedTexture2D::8946554496658456989::1727702535::1727702838::1::::<><>::
+penguin.png::CompressedTexture2D::8509929061795511705::1727702535::1727702838::1::::<><>::
+propeller.png::CompressedTexture2D::4075884849847167593::1727702535::1727702838::1::::<><>::
+quicksand_8frames.png::CompressedTexture2D::1554445723490760699::1727702535::1727702838::1::::<><>::
+saw.png::CompressedTexture2D::3476013560670151093::1727702535::1727702838::1::::<><>::
+shark.png::CompressedTexture2D::1053502365694295006::1727702535::1727702838::1::::<><>::
+slime_blue.png::CompressedTexture2D::3294746433611046396::1727702535::1727702838::1::::<><>::
+slime_red.png::CompressedTexture2D::4751434989783723851::1727702535::1727702838::1::::<><>::
+snake.png::CompressedTexture2D::62873584695090229::1727702535::1727702838::1::::<><>::
+spikes.png::CompressedTexture2D::3126026166659185752::1727702535::1727702838::1::::<><>::
+tornado.png::CompressedTexture2D::3315109845106309541::1727702535::1727702838::1::::<><>::
+tornado_sand.png::CompressedTexture2D::8059488380903551888::1727702535::1727702838::1::::<><>::
+wood_stakes.png::CompressedTexture2D::939955613336803284::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/FX/::1727702838
+boing.png::CompressedTexture2D::6681766547808262264::1727702535::1727702838::1::::<><>::
+bomb_explosion.png::CompressedTexture2D::3913521507781383567::1727702535::1727702838::1::::<><>::
+bubble.png::CompressedTexture2D::3231733782624554783::1727702535::1727702838::1::::<><>::
+bullet_windtrail.png::CompressedTexture2D::3327472460466615916::1727702535::1727702838::1::::<><>::
+cannon_fire_smoke.png::CompressedTexture2D::643764612909425194::1727702535::1727702838::1::::<><>::
+coin_collect.png::CompressedTexture2D::7200776615704414763::1727702535::1727702838::1::::<><>::
+dust.png::CompressedTexture2D::6422236406393400028::1727702535::1727702838::1::::<><>::
+exclamation.png::CompressedTexture2D::8918272671209526832::1727702535::1727702838::1::::<><>::
+hit.png::CompressedTexture2D::6876333474114307755::1727702535::1727702838::1::::<><>::
+rain_particles.png::CompressedTexture2D::6317387648292352192::1727702535::1727702838::1::::<><>::
+shine.png::CompressedTexture2D::2251736665312672012::1727702535::1727702838::1::::<><>::
+shine_white.png::CompressedTexture2D::2841711790263770800::1727702535::1727702838::1::::<><>::
+snow_particle.png::CompressedTexture2D::2684427305867346819::1727702535::1727702838::1::::<><>::
+splash.png::CompressedTexture2D::688153096668810525::1727702535::1727702838::1::::<><>::
+thought_bubble.png::CompressedTexture2D::4003833162783164561::1727702535::1727702838::1::::<><>::
+walk_dust.png::CompressedTexture2D::2792278050883339516::1727702535::1727702838::1::::<><>::
+wind.png::CompressedTexture2D::8647693030921837326::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/Objects/::1727702838
+apple.png::CompressedTexture2D::3577027766896067406::1727702535::1727702838::1::::<><>::
+banana.png::CompressedTexture2D::4730274392905872671::1727702535::1727702838::1::::<><>::
+bounce pad.png::CompressedTexture2D::647491075332136005::1727702535::1727702838::1::::<><>::
+brick_box.png::CompressedTexture2D::6015899391132487318::1727702535::1727702838::1::::<><>::
+button.png::CompressedTexture2D::2607586034789904857::1727702535::1727702838::1::::<><>::
+cloud_platforms.png::CompressedTexture2D::9118434459204982722::1727702535::1727702838::1::::<><>::
+coin_gold.png::CompressedTexture2D::2901515164382361920::1727702535::1727702838::1::::<><>::
+coin_silver.png::CompressedTexture2D::3384297289019876699::1727702535::1727702838::1::::<><>::
+coin_small_gold.png::CompressedTexture2D::3803744678244388600::1727702535::1727702838::1::::<><>::
+coin_small_silver.png::CompressedTexture2D::1179561092390777582::1727702535::1727702838::1::::<><>::
+crate.png::CompressedTexture2D::3570916630413455026::1727702535::1727702838::1::::<><>::
+flag.png::CompressedTexture2D::8525800201115884836::1727702535::1727702838::1::::<><>::
+gem.png::CompressedTexture2D::4657687316492457638::1727702535::1727702838::1::::<><>::
+heart.png::CompressedTexture2D::8580298352408712285::1727702535::1727702838::1::::<><>::
+key.png::CompressedTexture2D::1738152285491212782::1727702535::1727702838::1::::<><>::
+ladder.png::CompressedTexture2D::8507734895841077427::1727702535::1727702838::1::::<><>::
+lock.png::CompressedTexture2D::5569765883442312708::1727702535::1727702838::1::::<><>::
+sign.png::CompressedTexture2D::4673035064243800538::1727702535::1727702838::1::::<><>::
+sign_arrow.png::CompressedTexture2D::9164200192796973640::1727702535::1727702838::1::::<><>::
+treasure_chest.png::CompressedTexture2D::3894059013618772091::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/Tilesets/::1727702838
+snow platform.png::CompressedTexture2D::3971280809426524456::1727702621::1727702838::1::::<><>::
+tileset_desert.png::CompressedTexture2D::161000633218132465::1727702535::1727702838::1::::<><>::
+tileset_dirt.png::CompressedTexture2D::394235967541976148::1727702535::1727702838::1::::<><>::
+tileset_forest.png::CompressedTexture2D::4167767160231084040::1727702535::1727702838::1::::<><>::
+tileset_lava.png::CompressedTexture2D::3162481911078598966::1727702535::1727702838::1::::<><>::
+tileset_snow.png::CompressedTexture2D::7613113666393458090::1727702535::1727702838::1::::<><>::
+tileset_water.png::CompressedTexture2D::3167581347585798339::1727702535::1727702838::1::::<><>::
+::res://Assets/Rocky Roads/UI/::1727702838
+arrow.png::CompressedTexture2D::3785641405089526203::1727702535::1727702838::1::::<><>::
+background color.png::CompressedTexture2D::8326946868117477528::1727702535::1727702838::1::::<><>::
+buttons.png::CompressedTexture2D::4760543255636097977::1727702535::1727702838::1::::<><>::
+coin.png::CompressedTexture2D::2733004812182949909::1727702535::1727702838::1::::<><>::
+gem.png::CompressedTexture2D::3566639387172576070::1727702535::1727702838::1::::<><>::
+go.png::CompressedTexture2D::2752548441653980201::1727702535::1727702838::1::::<><>::
+healthbar.png::CompressedTexture2D::4691911587503658658::1727702535::1727702838::1::::<><>::
+hearts.png::CompressedTexture2D::3510531370509175121::1727702535::1727702838::1::::<><>::
+text.png::CompressedTexture2D::8211724766957318004::1727702535::1727702838::1::::<><>::
+text_fx.png::CompressedTexture2D::4320283863214747353::1727702535::1727702838::1::::<><>::
+ui.png::CompressedTexture2D::358625726496494664::1727702535::1727702838::1::::<><>::
+::res://Deliverable 2/::1727702535
+::res://scenes/::1727703008
+player.tscn::PackedScene::3862821655133752832::1727702625::0::1::::<><>::res://Scripts/player.gd<>uid://cukbxhnkvwff::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Idle (38x28).png<>uid://duh76rf4jdspv::::res://Assets/oak_woods_v1.0/character/char_blue.png<>uid://dmtrlvu4rdmhu::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Jump (38x28).png<>uid://b485ivfxoyxl6::::res://Assets/Kings and Pigs/Sprites/02-King Pig/Run (38x28).png
+world.tscn::PackedScene::2228028633689098547::1727703008::0::1::::<><>::uid://bvbgdxgofx7bw::::res://scenes/player.tscn<>uid://bhm7tw1qk2n88::::res://Assets/Rocky Roads/Backgrounds/background color.png<>uid://bpq1lmqyt86k2::::res://Assets/Rocky Roads/Backgrounds/mountains_a.png<>uid://b0m5rs0e2vpm3::::res://Assets/Rocky Roads/Tilesets/tileset_forest.png<>uid://fu8akfme6li7::::res://Assets/Rocky Roads/Tilesets/tileset_dirt.png<>uid://blb6u58gfwmw1::::res://Assets/Rocky Roads/Tilesets/tileset_lava.png<>uid://dgp34tqpjhdss::::res://Assets/Rocky Roads/Tilesets/tileset_snow.png<>uid://blenup6hmtrpj::::res://Assets/Rocky Roads/Tilesets/tileset_water.png<>uid://d26bjvry636qw::::res://Assets/Rocky Roads/Objects/cloud_platforms.png<>uid://lnkb1aatwmye::::res://Assets/Rocky Roads/Deco/clouds.png<>uid://dxyd8648l0fkf::::res://Assets/Rocky Roads/Deco/water_b_5 frames.png<>uid://cqngki1p3k2fv::::res://Assets/Rocky Roads/Deco/water_a_8frames.png<>uid://bwtyodofdalmu::::res://Assets/Rocky Roads/Tilesets/snow platform.png
+::res://Scripts/::1727702625
+player.gd::GDScript::-1::1727702625::0::1::::<>CharacterBody2D<>::
